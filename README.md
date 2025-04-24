@@ -1,12 +1,53 @@
-- 👋 Hi, I’m @AnugyaAg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Anugya Agarwal</h1>
+<p align="center">
+  🌐 Cloud Computing Enthusiast | 💡 Full-Stack Developer | 🎯 Creative Problem Solver | 👩‍💻 B.Tech CSE @ UPES
+</p>
 
-<!---
-AnugyaAg/AnugyaAg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📫 Contact Me
+- 📧 Email: [anugyaagr303@gmail.com](mailto:anugyaagr303@gmail.com)
+- 💼 LinkedIn: [Anugya Agarwal](https://linkedin.com/in/anugya-agarwal-b21b0a253)
+
+---
+
+### 🎓 Education
+
+**University of Petroleum and Energy Studies (UPES), Dehradun**  
+*Bachelor of Technology in CSE – Cloud Computing*  
+📅 Aug 2022 – June 2026 
+
+**Dayavati Dharam Vira Public School, Uttar Pradesh**  
+📅 2021 – 2022 | **Percentage:** 85% (Higher Secondary)  
+📅 2019 – 2020 | **Percentage:** 86% (Secondary School)
+
+
+---
+
+### 🛠️ Skills
+
+**Languages:** C, C++, Java, JavaScript  
+**Web Technologies:** HTML, CSS, JavaScript  
+**Tools & Platforms:** MySQL, Git, GitHub, VSCode, AWS  
+**Soft Skills:** Leadership, Communication, Team Collaboration
+
+---
+
+### 📜 Certifications
+
+- 🎓 AWS Academy Graduate – *Introduction to Cloud* (Sem 1 & 2)  
+- 🎓 AWS Academy Graduate – *Cloud Architecting*  
+- 🎓 AWS Academy Graduate – *Cloud Security Foundations*
+
+---
+
+### 🔥 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnugyaAg&show_icons=true&theme=gruvbox" alt="Anugya's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnugyaAg&theme=gruvbox" alt="Anugya's GitHub streak"/>
+</p>
+
+---
+
+⭐ *Driven by innovation. Passionate about technology. Let’s build the future together.*
