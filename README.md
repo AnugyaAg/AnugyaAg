@@ -1,65 +1,62 @@
-# 👋 Hi there, I'm Anugya Agarwal!
-
-🌐 **Cloud Computing Enthusiast** | 💻 **Full-Stack Developer** | 🎯 **Creative Problem Solver**  
-👩‍🎓 B.Tech CSE – Cloud Computing @ UPES (2022–2026)
-
----
-
-## 👩‍💻 About Me
-
-I’m a tech explorer passionate about the cloud, software development, and solving real-world challenges. As a Computer Science student specializing in **Cloud Computing**, I enjoy combining backend logic with user-friendly interfaces to deliver seamless solutions.
-
-💡 I love learning new technologies, building projects, and collaborating with like-minded innovators!
+<h1 align="center">Hi 👋, I'm Anugya Agarwal</h1>
+<p align="center">
+  🌐 Cloud Computing Enthusiast | 💡 Full-Stack Developer | 🎯 Creative Problem Solver | 👩‍💻 B.Tech CSE @ UPES
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages**: `C`, `C++`, `Java`, `JavaScript`
-- **Web Development**: `HTML`, `CSS`, `JavaScript`
-- **Databases**: `MySQL`
-- **Tools & Platforms**: `Git`, `GitHub`, `VSCode`, `AWS`
-- **Soft Skills**: Leadership, Communication, Team Collaboration
+### 📫 Contact Me
+- 📧 Email: [anugyaagr303@gmail.com](mailto:anugyaagr303@gmail.com)
+- 💼 LinkedIn: [Anugya Agarwal](https://linkedin.com/in/anugya-agarwal-b21b0a253)
 
 ---
 
-## 📜 Certifications
+### 🎓 Education
 
-- 🎓 AWS Academy Graduate – *Introduction to Cloud* (Semester 1 & 2)  
+**University of Petroleum and Energy Studies (UPES), Dehradun**  
+*Bachelor of Technology in CSE – Cloud Computing*  
+📅 Aug 2022 – June 2026 
+
+**Dayavati Dharam Vira Public School, Uttar Pradesh**  
+📅 2021 – 2022 | **Percentage:** 85% (Higher Secondary)  
+📅 2019 – 2020 | **Percentage:** 86% (Secondary School)
+
+---
+
+### 💼 Internship Experience
+
+**Social Intern** @ *Manthan Trust, Uttar Pradesh*  
+📅 June 2023 – Aug 2023  
+- Enhanced leadership, project management, and teamwork through real-world engagement  
+- Built professional networks and contributed to community outreach initiatives
+
+
+---
+
+### 🛠️ Skills
+
+**Languages:** C, C++, Java, JavaScript  
+**Web Technologies:** HTML, CSS, JavaScript  
+**Tools & Platforms:** MySQL, Git, GitHub, VSCode, AWS  
+**Soft Skills:** Leadership, Communication, Team Collaboration
+
+---
+
+### 📜 Certifications
+
+- 🎓 AWS Academy Graduate – *Introduction to Cloud* (Sem 1 & 2)  
 - 🎓 AWS Academy Graduate – *Cloud Architecting*  
 - 🎓 AWS Academy Graduate – *Cloud Security Foundations*
 
 ---
 
-## 🎓 Education
-
-**University of Petroleum and Energy Studies (UPES), Dehradun**  
-*B.Tech in CSE – Cloud Computing*  
-📅 *Aug 2022 – June 2026*
-
-**Dayavati Dharam Vira Public School, Uttar Pradesh**  
-📅 *Higher Secondary (2021 – 2022)* – 85%  
-📅 *Secondary School (2019 – 2020)* – 86%
-
----
-
-## 📈 GitHub Stats
-
+### 🔥 GitHub Stats (Optional Visuals)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anugya-agr&show_icons=true&theme=radical" alt="Anugya's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugya-agr&theme=radical" alt="Anugya's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnugyaAg&show_icons=true&theme=gruvbox" alt="Anugya's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnugyaAg&theme=gruvbox" alt="Anugya's GitHub streak"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: [anugyaagr303@gmail.com](mailto:anugyaagr303@gmail.com)  
-- 💼 LinkedIn: [Anugya Agarwal](https://www.linkedin.com/in/anugya-agarwal)  
-
----
-
-> 🌟 *Driven by innovation. Passionate about technology. Let’s build the future together.*
-
-
+⭐ *Driven by innovation. Passionate about technology. Let’s build the future together.*
